@@ -1,2 +1,1 @@
-# php-web-data
-PHP ile web site veritabanı oluşturma
+HTML ve CSS kodlamasını yaptıktan sonra xampp indirilimi ve kurulumu yapılır. Ardından windows c klasöründe xampp klasörü bulunur ve içerisnde bulunan htdocs klasörünün içerisi boşaltılır. Boşaltıldıktan sonra kodlamasını yapmış olduğumuz klasörü htdocs içerisine yapıştırmalıyız. Ardından xampp panelde bulunan apache ve mySQL aksiyonları çalıştırılır. Apache adminine girilerek htdocs içerisinde bulunan klasör çalıştırılır. Sorunsuz şekilde çalıştıktan sonra klasörlerden tekrar htdocs a girilir ve .html uzantılı dosyalar .php ile değiştirlir. Değişim tamamlandıktan sonra sorunsuz şekilde çalışacaktır. Kodlamalar paylaşılan dosyalardaki gibidir. :) İYİ ÇALIŞMALAR :)
